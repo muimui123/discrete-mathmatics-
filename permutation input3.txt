@@ -1,0 +1,38 @@
+white
+wild
+parboiled
+brown
+jasmine
+black
+sushi
+basmati
+***
+hamburger
+spam
+mahi
+salmon
+hotdog
+Portuguese sausage
+bacon
+turkey
+beef
+pork
+***
+scrambled
+over easy
+over hard
+sunny side up
+hard-boiled
+soft-boiled
+raw
+omelets
+deep-fried
+***
+brown
+country
+sausage
+chocolate
+tomato
+shrimp
+sawmill
+turkey giblet

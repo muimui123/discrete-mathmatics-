@@ -1,0 +1,24 @@
+Alice's Adventures in Wonderland|Lewis Carroll|Children|2010
+2001: A Space Odyssey|Arthur C. Clarke|Science Fiction|2010
+Ender's Game|Orson Scott Card|Science Fiction|2016
+Xenocide|Orson Scott Card|Science Fiction|2016
+The Miracle of Forgiveness|Spencer W. Kimball|Religion|2017
+A Marvelous Work and a Wonder|LeGrand Richards|Religion|1990
+Mary Poppins Comes Back|P.L. Travers|Children|1995
+Myst: The Book of Atrus|Rand Miller|Fantasy|1998
+Myst: The Book of D'Ni|Rand Miller|Fantasy|1997
+Myst: The Book of Ti'Ana|Rand Miller|Fantasy|2010
+King's Quest: The Floating Castle|Craig Mills|Fantasy|2016
+King's Quest: Kingdom of Sorrow|Kenyon Morr|Fantasy|2017
+King's Quest: See No Weevil|Kenyon Morr|Fantasy|1990
+Stand a Little Taller|Gordon B. Hinckley|Religion|1998
+The Old Man and the Sea|Ernest Hemingway|Adventure|1997
+Candide|Voltaire|Adventure|2016
+The Zork Chronicles|George Alec Effinger|Fantasy|2002
+The Lost City of Zork|Robin W. Bailey|Fantasy|2000
+Jesus the Christ|James E. Talmage|Religion|1990
+Articles of Faith|James E. Talmage|Religion|1998
+Green Eggs and Ham|Dr. Seuss|Children|1997
+Les Miserables|Victor Hugo|Adventure|2010
+The Phantom of the Opera|Gaston Leroux|Adventure|2016
+The Little Prince|Antoine de St. Exupery|Children|2017
